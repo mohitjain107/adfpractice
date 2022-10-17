@@ -1,0 +1,9 @@
+{
+	"name": "ups-dp-dev-mai-adf-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9140c81-cdc9-465a-8645-525ef1f95f57",
+		"tenantId": "adb53b4f-b05f-4dcb-a2e1-9111380568c3"
+	}
+}
